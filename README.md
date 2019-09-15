@@ -1,5 +1,5 @@
 # Arquitectura
-arquitectura mejor barrio
+Arquitectura mejor barrio
 Estrategia:
 Los mejores barrios donde vivir en España. 
 La información objetiva valdrá para crear un mapa de las mayores 5 ciudades de España, ordenadas por zonas en 3 colores de mejor a peor( verde,naranja,rojo) que se subirá a una web.
