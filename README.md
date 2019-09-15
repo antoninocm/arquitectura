@@ -18,3 +18,4 @@ Operaciones:
 Cargar el csv airbnb en cloud actualizar una vez al mes.
 Generar SQL con la API de google maps, con zonas, servicios y subirlo una vez al mes al cloud.
 Generar SQL con las estadísticas locales una vez al año se sube al cloud 
+
